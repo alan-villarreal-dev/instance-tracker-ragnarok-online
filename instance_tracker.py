@@ -87,7 +87,7 @@ class IROTrackerApp(ctk.CTk):
     def __init__(self):
         super().__init__()
         
-        self.title("iRO Instance Tracker v9.1 (Fixed)")
+        self.title("iRO Instance Tracker")
         self.geometry("1450x850")
         
         self.server_tz = timezone(timedelta(hours=SERVER_UTC_OFFSET))
