@@ -75,3 +75,7 @@ Reset All: Use the "Reset All" button in the top header to wipe all timers for t
 All data is stored in iro_instance_data.json in the same folder.
 Backup: Copy this file to save your progress.
 Migration: The app automatically upgrades old data formats to the new format (adding favorites/run counts) without data loss.
+
+## 🙏 Acknowledgments
+
+* **Data Source:** Special thanks to [iRO Wiki](https://irowiki.org/wiki/Instance) for providing detailed instance cooldowns and information.
