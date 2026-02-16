@@ -2,6 +2,9 @@
 
 Modern Desktop GUI application built with Python to track Ragnarok Online (iRO) instance cooldowns. It supports multiple accounts, characters, favorites, run counters, and real-time server synchronization.
 
+<p align="center">
+    <img src="images/instance-tracker.png" width=600 title="iRO Tracker Interface">
+</p>
 ## ✨ Key Features
 
 🚀 ***Zero-Lag Interface***: Optimized "Widget Recycling" engine ensures instant switching between characters, even with 50+ instances.
