@@ -57,23 +57,31 @@ python instance_tracker.py
 
 1. Setting Up
 Add Account: Click + Account on the left sidebar (e.g., "MainAccount").
+
 Add Character: Select the account, then click + Character (e.g., "RuneKnight").
 
-2. Tracking & Favorites
+3. Tracking & Favorites
 Select a Character: Click a name in the sidebar.
+
 Mark Done: Click the "Mark Done" button next to an instance.
+
 The button turns Red (Reset mode) and shows the countdown.
+
 The "Runs" counter increments by 1.
+
 Add Favorite: Click the Star (☆) icon next to any instance. It will turn yellow (★) and appear in the "Favorites" tab for quick access.
 
-3. Managing Cooldowns
+5. Managing Cooldowns
 Mistake? If you clicked by accident, the button becomes "Reset" (Red). Click it to clear the timer.
+
 Reset All: Use the "Reset All" button in the top header to wipe all timers for the current character (keeps favorites and run counts intact).
 
 ## 📂 Data & Backup
 
 All data is stored in iro_instance_data.json in the same folder.
+
 Backup: Copy this file to save your progress.
+
 Migration: The app automatically upgrades old data formats to the new format (adding favorites/run counts) without data loss.
 
 ## 🙏 Acknowledgments
