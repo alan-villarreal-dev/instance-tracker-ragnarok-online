@@ -70,9 +70,8 @@ Add Favorite: Click the Star (☆) icon next to any instance. It will turn yello
 Mistake? If you clicked by accident, the button becomes "Reset" (Red). Click it to clear the timer.
 Reset All: Use the "Reset All" button in the top header to wipe all timers for the current character (keeps favorites and run counts intact).
 
-📂 Data & Backup
+## 📂 Data & Backup
+
 All data is stored in iro_instance_data.json in the same folder.
-
 Backup: Copy this file to save your progress.
-
 Migration: The app automatically upgrades old data formats to the new format (adding favorites/run counts) without data loss.
